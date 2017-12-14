@@ -32,17 +32,6 @@ Below is some information about these corpus
 8. [保險行業QA語料庫](https://github.com/Samurais/insuranceqa-corpus-zh)
 <br>通過翻譯 [insuranceQA](https://github.com/shuzi/insuranceQA)產生的數據集。train_data含有問題12,889條，數據 141779條，正例：負例 = 1:10； test_data含有問題2,000條，數據 22000條，正例：負例 = 1:10；valid_data含有問題2,000條，數據 22000條，正例：負例 = 1:10
 
-### 未公開語料
-
-這部分語料，網絡上有所流傳，但由於我們能力所限，或者原作者並未公開，暫時未獲取。只是列舉出來，供以後繼續搜尋。
-
-1. 微軟小冰
 
 ### 版權
-
 所有原始語料歸原作者所有
-
-### 聯繫
-
-[何雲超](yunchaohe@gmail.com)
-<br>weibo: [@Yunchao_He](http://weibo.com/heyunchao)
